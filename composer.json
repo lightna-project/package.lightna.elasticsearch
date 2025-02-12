@@ -6,6 +6,6 @@
     "license": "MIT",
     "require": {
         "ext-curl": "*",
-        "lightna/engine": "^1.0"
+        "lightna/lightna.engine": "^1.0"
     }
 }
